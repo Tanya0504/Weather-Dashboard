@@ -26,7 +26,7 @@ The app includes **error handling** for invalid city names and network issues, m
 
 ## 🖼️ Screenshots
 
-> Add screenshots of your app in the `assets/` folder and reference them here  
+
 
 <img width="386" height="548" alt="image" src="https://github.com/user-attachments/assets/9f30e199-6ca5-4e42-9e59-73011c2da9ce" />
 
