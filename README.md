@@ -26,9 +26,10 @@ The app includes **error handling** for invalid city names and network issues, m
 
 ## 🖼️ Screenshots
 
+<img width="317" height="513" alt="image" src="https://github.com/user-attachments/assets/f46b2890-9a16-4f53-b38f-3abb83e63fbe" />
 
+<img width="360" height="538" alt="image" src="https://github.com/user-attachments/assets/553b3f84-17e2-4e5e-836e-b96035bf3207" />
 
-<img width="386" height="548" alt="image" src="https://github.com/user-attachments/assets/9f30e199-6ca5-4e42-9e59-73011c2da9ce" />
 
 
 ---
